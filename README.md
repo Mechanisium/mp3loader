@@ -8,8 +8,8 @@ this is the one and only mp3 downloader that i personally crafted for my use
 primarily uses ytdlp (you need to either have ytdlp on your system or its 
 standalone executable in this directory).
 
-<video src="sample_clip/sampl.mp4" controls="controls" style="max-width: 100%;"></video>
 
+<video src="sample_clip/sampl.mp4" controls autoplay loop muted style="max-width: 100%;"></video>
 
 the purpose of this project is to save you headache from all those options and
 arguments that ytdlp requires to download a simple file and saves you a visit 
