@@ -1,3 +1,4 @@
+
 # mp3loader
 
 
@@ -9,7 +10,8 @@ primarily uses ytdlp (you need to either have ytdlp on your system or its
 standalone executable in this directory).
 
 
-<video src="sample_clip/sampl.mp4" controls autoplay loop muted style="max-width: 100%;"></video>
+
+[sampl.webm](https://github.com/user-attachments/assets/01a28709-8977-4550-bdc1-5972a11c7d57)
 
 the purpose of this project is to save you headache from all those options and
 arguments that ytdlp requires to download a simple file and saves you a visit 
